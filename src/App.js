@@ -1,5 +1,5 @@
 import React from 'react'
-import CallBack from './Components/CallBack'
+// import CallBack from './Components/CallBack'
 import Context from './Components/Context'
 import PropsDrelling from './Components/PropsDrelling'
 import UseRef from './Components/UseRef'
@@ -9,7 +9,7 @@ const App = () => {
     <>
       <UseRef/>
       <Context/>
-      <CallBack/>
+//       <CallBack/>
       <PropsDrelling/>
     </>
   )
